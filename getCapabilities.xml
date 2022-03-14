@@ -149,6 +149,11 @@
 				<Layers>GH:openstreetmap</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:02001_ensenada_2021_denue_qg</Name>
+				<Title>02001_ensenada_2021_denue_qg</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
